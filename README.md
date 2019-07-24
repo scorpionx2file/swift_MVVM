@@ -1,11 +1,12 @@
-Syntax IT
 
-# swift MVVM Example 
+Syntax IT</br>
 
-Using News Api for get json 
+# swift MVVM Example </br>
 
-Stepes :
-1- go to https://newsapi.org 
-2- register to get your owne API Key 
-3- Choose your favorit type of news form there Documentation https://newsapi.org/docs
+Using News Api for get json </br>
+</br>
+Stepes :</br>
+1- go to https://newsapi.org </br>
+2- register to get your owne API Key </br>
+3- Choose your favorit type of news form there Documentation https://newsapi.org/docs</br>
 
